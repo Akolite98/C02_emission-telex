@@ -1,0 +1,21 @@
+
+# Ignore environment files (API keys, secrets)
+.env
+
+# Ignore Python virtual environment
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore log files
+*.log
+
+# Ignore VS Code and PyCharm settings
+.vscode/
+.idea/
+
+# Ignore dependency files
+*.db
+.DS_Store
